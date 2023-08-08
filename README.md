@@ -21,7 +21,7 @@ of a number of cases.
 # Architecture of the model
 ![model_architecture](https://github.com/fatlina99/Covid-19_Cases_Prediction_LSTM/assets/141213373/7429ae6e-b85d-402e-a6c6-12123565fe42)
 
-#
+# The predicted and actual COVID cases plot for MSE
 ![MSE plot](https://github.com/fatlina99/Covid-19_Cases_Prediction_LSTM/assets/141213373/bf0bcd9d-ed41-4d76-98ec-f22039d2db92)
 
 The training loss (MSE) is decreasing, but the validation loss is fluctuating and sometimes even increasing. This could indicate overfitting, where the model is performing well on the training data but struggling to generalize to unseen validation data.
